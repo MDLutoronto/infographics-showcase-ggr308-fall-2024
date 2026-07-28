@@ -1,8 +1,8 @@
 ## Site settings
 title: "Infographics Showcase for GGR308 - Canadian Arctic and Subarctic Environments (Fall 2024)"
 description: "This is a collaboration between the Map & Data Library and Dr. Sarah Peirce to showcase top student infographics assignments in GGR308."
-url: "https://MDLutoronto.github.io/infographics-showcase-ggr308-fall-2024" # change the slug to the repo's name ('jtd-template' in this case)
-repository: "MDLutoronto/infographics-showcase-ggr308-fall-2024" # for github-metadata
+url: "https://mdlutoronto.github.io/infographics-showcase-ggr308-fall-2024" # change the slug to the repo's name ('jtd-template' in this case)
+repository: "mdlutoronto/infographics-showcase-ggr308-fall-2024" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
 ## Logos should be placed in the /assets/images/ directory, or you can use an external image link
