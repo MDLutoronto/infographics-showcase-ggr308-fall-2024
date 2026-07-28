@@ -34,72 +34,72 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/JW2Infographic.png"><img src="StandardSize/JW2Infographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1100"></a>
+                    <a href="assets/images/Final/JW2Infographic.png"><img src="assets/images/StandardSize/JW2Infographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1100"></a>
                 </p>
                 <p>
-                    <a href="Final/JW2References.pdf">References</a>
-                </p>
-            </td>
-            <td style="text-align:center;vertical-align:top;">
-                <p>
-                    <a href="Final/KYInfographic.png"><img src="StandardSize/KYInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1132"></a>
-                </p>
-                <p>
-                    <a href="Final/KYReferences.pdf">References</a>
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;vertical-align:top;">
-                <p>
-                    <a href="Final/KNInfographic.png"><img src="StandardSize/KNInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1000"></a>
-                </p>
-                <p>
-                    <a href="Final/KNReferences.pdf">References</a>
+                    <a href="assets/images/Final/JW2References.pdf">References</a>
                 </p>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/JWInfographic.png"><img src="StandardSize/JWInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1129"></a>
+                    <a href="assets/images/Final/KYInfographic.png"><img src="assets/images/StandardSize/KYInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1132"></a>
                 </p>
                 <p>
-                    <a href="Final/JWReferences.pdf">References</a>
+                    <a href="assets/images/Final/KYReferences.pdf">References</a>
                 </p>
             </td>
         </tr>
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/MFInforgraphic.png"><img src="StandardSize/MFInforgraphic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1418"></a>
+                    <a href="assets/images/Final/KNInfographic.png"><img src="assets/images/StandardSize/KNInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1000"></a>
                 </p>
                 <p>
-                    <a href="Final/MFReferences.pdf">References</a>
+                    <a href="assets/images/Final/KNReferences.pdf">References</a>
                 </p>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/MPInfographic.png"><img src="StandardSize/MPInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1000"></a>
+                    <a href="assets/images/Final/JWInfographic.png"><img src="assets/images/StandardSize/JWInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1129"></a>
                 </p>
                 <p>
-                    <a href="Final/MPReferences.pdf">References</a>
+                    <a href="assets/images/Final/JWReferences.pdf">References</a>
                 </p>
             </td>
         </tr>
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/NKInfographic.png"><img src="StandardSize/NKInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1055"></a>
+                    <a href="assets/images/Final/MFInforgraphic.png"><img src="assets/images/StandardSize/MFInforgraphic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1418"></a>
                 </p>
                 <p>
-                    <a href="Final/NKReferences.pdf">References</a>
+                    <a href="assets/images/Final/MFReferences.pdf">References</a>
                 </p>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="Final/TAGinfographic.png"><img src="StandardSize/TAGinfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1132"></a>
+                    <a href="assets/images/Final/MPInfographic.png"><img src="assets/images/StandardSize/MPInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1000"></a>
                 </p>
                 <p>
-                    <a href="Final/TAGReferences.pdf">References</a>
+                    <a href="assets/images/Final/MPReferences.pdf">References</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;vertical-align:top;">
+                <p>
+                    <a href="assets/images/Final/NKInfographic.png"><img src="assets/images/StandardSize/NKInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1055"></a>
+                </p>
+                <p>
+                    <a href="assets/images/Final/NKReferences.pdf">References</a>
+                </p>
+            </td>
+            <td style="text-align:center;vertical-align:top;">
+                <p>
+                    <a href="assets/images/Final/TAGinfographic.png"><img src="assets/images/StandardSize/TAGinfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="300" height="1132"></a>
+                </p>
+                <p>
+                    <a href="assets/images/Final/TAGReferences.pdf">References</a>
                 </p>
             </td>
         </tr>
