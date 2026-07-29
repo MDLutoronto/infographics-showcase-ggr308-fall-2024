@@ -6,12 +6,12 @@ description:  This is a collaboration between the Map & Data Library and Dr. Sar
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
 created_date: 2025-01-01 # Date when the page was created. Should be in YYYY-MM-DD format.
 has_children: False  # Set to True if the page has sub-pages.
-staff:  # Optional: Nested list of staff members associated with the page.
-  - name: Kelly Schultz
-    link: https://library.utoronto.ca/staff/kelly-schultz # link is optional
-maintainer:
-  - name: #
-    link: # link is optional
+#staff:  # Optional: Nested list of staff members associated with the page.
+ # - name: Kelly Schultz
+  #  link: https://library.utoronto.ca/staff/kelly-schultz # link is optional
+#maintainer:
+#  - name: #
+#    link: # link is optional
 # student_staff:  
 # - name: Student Name
 #   link: https://example.com/student-name
@@ -29,12 +29,12 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
 
 **Click on an infographic to view the full, zoomable image.**
 
-<table class="table" style="width:600px;" border="0.5" cellpadding="10" cellspacing="10">
+<table class="table" style="width:500px;" border="0.5" cellpadding="10" cellspacing="10">
     <tbody>
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/JW2Infographic.png"><img src="assets/images/StandardSize/JW2Infographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1100"></a>
+                    <a href="assets/images/Final/JW2Infographic.png"><img src="assets/images/StandardSize/JW2Infographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1100"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/JW2References.pdf">References</a>
@@ -42,7 +42,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/KYInfographic.png"><img src="assets/images/StandardSize/KYInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1132"></a>
+                    <a href="assets/images/Final/KYInfographic.png"><img src="assets/images/StandardSize/KYInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1132"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/KYReferences.pdf">References</a>
@@ -52,7 +52,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/KNInfographic.png"><img src="assets/images/StandardSize/KNInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1000"></a>
+                    <a href="assets/images/Final/KNInfographic.png"><img src="assets/images/StandardSize/KNInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1000"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/KNReferences.pdf">References</a>
@@ -60,7 +60,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/JWInfographic.png"><img src="assets/images/StandardSize/JWInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1129"></a>
+                    <a href="assets/images/Final/JWInfographic.png"><img src="assets/images/StandardSize/JWInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1129"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/JWReferences.pdf">References</a>
@@ -70,7 +70,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/MFInforgraphic.png"><img src="assets/images/StandardSize/MFInforgraphic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1418"></a>
+                    <a href="assets/images/Final/MFInforgraphic.png"><img src="assets/images/StandardSize/MFInforgraphic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1418"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/MFReferences.pdf">References</a>
@@ -78,7 +78,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/MPInfographic.png"><img src="assets/images/StandardSize/MPInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1000"></a>
+                    <a href="assets/images/Final/MPInfographic.png"><img src="assets/images/StandardSize/MPInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1000"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/MPReferences.pdf">References</a>
@@ -88,7 +88,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
         <tr>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/NKInfographic.png"><img src="assets/images/StandardSize/NKInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1055"></a>
+                    <a href="assets/images/Final/NKInfographic.png"><img src="assets/images/StandardSize/NKInfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1055"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/NKReferences.pdf">References</a>
@@ -96,7 +96,7 @@ Note: The following 8 infographics were created in GGR308 - Canadian Arctic and 
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <p>
-                    <a href="assets/images/Final/TAGinfographic.png"><img src="assets/images/StandardSize/TAGinfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="250" height="1132"></a>
+                    <a href="assets/images/Final/TAGinfographic.png"><img src="assets/images/StandardSize/TAGinfographic_resized.png" data-entity-uuid="" data-entity-type="file" alt="" width="225" height="1132"></a>
                 </p>
                 <p>
                     <a href="assets/images/Final/TAGReferences.pdf">References</a>
